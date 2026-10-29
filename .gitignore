@@ -1,0 +1,12 @@
+# 编译产物
+*.exe
+bin/
+obj/
+
+# 运行时日志
+snap-log.txt
+
+# 系统垃圾文件
+Thumbs.db
+desktop.ini
+.DS_Store
